@@ -1,6 +1,12 @@
 eclipse.preferences.version=1
 encoding//src/pyalgotrade/__init__.py=utf-8
+encoding//src/pyalgotrade/dataseries/__init__.py=utf-8
 encoding//src/pyalgotrade/dispatchprio.py=utf-8
 encoding//src/pyalgotrade/observer.py=utf-8
+encoding//src/pyalgotrade/technical/__init__.py=utf-8
+encoding//src/pyalgotrade/technical/cross.py=utf-8
 encoding//src/pyalgotrade/utils/__init__.py=utf-8
-encoding//src/pyalgotrade/utils/collections.py=utf-8
+encoding//src/pyalgotrade/utils/collection.py=utf-8
+encoding//src/testcases/__init__.py=utf-8
+encoding//src/testcases/common.py=utf-8
+encoding//src/testcases/technical_cross_test.py=utf-8

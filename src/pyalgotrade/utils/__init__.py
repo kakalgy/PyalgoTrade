@@ -28,9 +28,12 @@ def safe_max(left, right):
     else:
         return max(left, right)
     
+    
 if __name__ == "__main__": 
     print get_change_percentage(10, 5)
     
     print safe_min(5, 10)
     
     print safe_max(5, 10)
+    
+    
